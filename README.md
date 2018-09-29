@@ -19,3 +19,4 @@ cd {nome_do_exercicio}
 ```bash
   bin/setup
 ```
+Leia atentamente a descrição do desafio, siga as instruções e bons estudos!!!
